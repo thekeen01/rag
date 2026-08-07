@@ -26,7 +26,7 @@ pip install langchain langchain-community langchain-ollama langchain-chroma chro
 make a directory for the chroma-db
 
 ```
-mkdir chroma-db
+mkdir chroma_db
 ```
 
 clone the repo and edit the ingest.py to point it to your documents directory and run the ingest, this might take a while
