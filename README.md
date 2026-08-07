@@ -29,7 +29,7 @@ make a directory for the chroma-db
 mkdir chroma_db
 ```
 
-clone the repo and edit the ingest.py to point it to your documents directory and run the ingest, this might take a while
+clone the repo and edit the ingest.py to point it to your documents directory and run the ingest, this might take a while. Ensure that the chromadb path is properly set for where you created your chroma_db dir
 
 ```
 pyhton3 ingest.py
