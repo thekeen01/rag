@@ -35,10 +35,25 @@ clone the repo and edit the ingest.py to point it to your documents directory an
 pyhton3 ingest.py
 ```
 
-# query the rag
+# query the rag using cli
 
 ```
 python3 query.py
 ```
+
+# using streamlit for a more chatgpt style experience
+
+install streamlit
+```
+pip install streamlit
+```
+
+the run the app
+```
+streamlit run app.py
+```
+
+if the webpage doesn't open, the app should be at http://localhost:8501/
+
 
 
