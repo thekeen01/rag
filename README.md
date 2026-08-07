@@ -1,6 +1,6 @@
 # description
 
-small set of tool to build a local rag with your docs. Great for indexing your .md and .txt files from say your obsidian notes
+small set of tools to build a local rag with your docs. Great for indexing your .md and .txt files from say your obsidian notes. You can modify the ingest.py for other extensions but you might need to add parsers for them
 
 # install requirements
 
