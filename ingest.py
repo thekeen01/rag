@@ -10,8 +10,8 @@ CHROMA_DIR = "./chroma_db"
 
 EMBEDDING_MODEL = "nomic-embed-text"
 
-CHUNK_SIZE = 1000
-CHUNK_OVERLAP = 200
+CHUNK_SIZE = 1250
+CHUNK_OVERLAP = 250
 
 SUPPORTED_EXTENSIONS = ("*.md", "*.txt")
 
