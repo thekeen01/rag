@@ -35,6 +35,12 @@ clone the repo and edit the ingest.py to point it to your documents directory an
 pyhton3 ingest.py
 ```
 
+if your input is properly structured md files, it's preferable to use this command as this will properly tokenize the data
+
+```
+pyhton3 ingest-md.py
+```
+
 # query the rag using cli
 
 ```
